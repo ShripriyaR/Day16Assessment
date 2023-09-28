@@ -1,0 +1,19 @@
+body{
+    background: black;
+    
+    
+}
+#wrapper{
+    
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    background: linear-gradient(
+        to right, #F18E3D, #F7F7F7,
+         #148B44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
